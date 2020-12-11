@@ -1,0 +1,6 @@
+auth:
+  database: petclinic
+  username: petclinic
+  forcePassword: true
+  rootPassword: "NIKvOxD8IdVY+AdH"
+  password: "OSuAKiUZc+An4OjV"
