@@ -4,5 +4,3 @@ petclinic:
   image: "ghcr.io/mhoshi-vm/spring-petclinic:2.3.0.BUILD-SNAPSHOT"
   wavefront:
     applicationName: "petclinic"
-    uri: "https://wavefront.surf/"
-    apiToken: ""
